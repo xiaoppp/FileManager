@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='htmlstyle.xslt'?>
+<Root>
+  <Path Name="ubuntu" FullPath="D:\ubuntu">
+    <Path Name="disks" FullPath="D:\ubuntu\disks">
+      <Path Name="boot" FullPath="D:\ubuntu\disks\boot">
+        <Path Name="grub" FullPath="D:\ubuntu\disks\boot\grub" />
+      </Path>
+    </Path>
+    <Path Name="install" FullPath="D:\ubuntu\install">
+      <File Name=".fuse_hidden0000000400000001" Path="D:\ubuntu\install\.fuse_hidden0000000400000001" />
+    </Path>
+    <Path Name="winboot" FullPath="D:\ubuntu\winboot">
+      <File Name="wubildr" Path="D:\ubuntu\winboot\wubildr" />
+      <File Name="wubildr-bootstrap.cfg" Path="D:\ubuntu\winboot\wubildr-bootstrap.cfg" />
+      <File Name="wubildr.cfg" Path="D:\ubuntu\winboot\wubildr.cfg" />
+      <File Name="wubildr.mbr" Path="D:\ubuntu\winboot\wubildr.mbr" />
+      <File Name="wubildr.tar" Path="D:\ubuntu\winboot\wubildr.tar" />
+    </Path>
+  </Path>
+</Root>

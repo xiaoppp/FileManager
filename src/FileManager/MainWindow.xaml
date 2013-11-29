@@ -25,8 +25,11 @@
             </TreeView.ItemTemplate>
         </TreeView>
         <Grid Grid.Row="2">
-            <StackPanel>
-                <Button Margin="0,3,20,3" HorizontalAlignment="Right" Content="Save" Height="25" Width="53" Click="Button_Click"></Button>
+            <StackPanel  Orientation="Horizontal">
+                <Label x:Name="messageLabel" HorizontalAlignment="Left"></Label>
+                <StackPanel HorizontalAlignment="Right">
+                    <Button Margin="5" HorizontalAlignment="Right" Content="Save" Height="25" Width="53" Click="Button_Click"></Button>
+                </StackPanel>
             </StackPanel>
         </Grid>
     </Grid>

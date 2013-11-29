@@ -55,8 +55,9 @@ namespace DatumManage
         {
             var list = tvFolder.ItemsSource as List<TreeNodeModel>;
 
-            XDocument document = new XDocument();
+            XDocument document = new XDocument(new XProcessingInstruction("xml-stylesheet", "type='text/xsl' href='htmlstyle.xslt'")); 
             XElement element = new XElement("Root");
+            
             BuildXML(list, element);
             document.Add(element);
 
@@ -66,6 +67,8 @@ namespace DatumManage
             {
                 var path = dialog.FileName;
                 document.Save(path);
+
+                messageLabel.Content = "save successful";
             }
         }
 
@@ -106,6 +109,7 @@ namespace DatumManage
 
         private void btnBrowseButton_Click(object sender, RoutedEventArgs e)
         {
+            messageLabel.Content = "browse folder...";
             FolderBrowserDialog dialog = new FolderBrowserDialog();
 
             if (dialog.ShowDialog() == System.Windows.Forms.DialogResult.OK)

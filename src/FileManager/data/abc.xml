@@ -1,0 +1,540 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="htmlstyle.xslt"?>
+<Root>
+  <Path Name="e-book" FullPath="E:\e-book">
+    <Path Name="CPA" FullPath="E:\e-book\CPA">
+      <File Name="CPA准备.docx" Path="E:\e-book\CPA\CPA准备.docx" />
+    </Path>
+    <Path Name="CPA相关资料" FullPath="E:\e-book\CPA相关资料">
+      <File Name="【学会计论坛】税法自学笔记（完整版）.doc" Path="E:\e-book\CPA相关资料\【学会计论坛】税法自学笔记（完整版）.doc" />
+      <File Name="资料汇总.docx" Path="E:\e-book\CPA相关资料\资料汇总.docx" />
+    </Path>
+    <Path Name="专业书籍" FullPath="E:\e-book\专业书籍">
+      <Path Name="公司理财" FullPath="E:\e-book\专业书籍\公司理财">
+        <File Name="公司理财(原书第5版).part01.rar" Path="E:\e-book\专业书籍\公司理财\公司理财(原书第5版).part01.rar" />
+        <File Name="公司理财(原书第5版).part02.rar" Path="E:\e-book\专业书籍\公司理财\公司理财(原书第5版).part02.rar" />
+        <File Name="公司理财(原书第5版).part03.rar" Path="E:\e-book\专业书籍\公司理财\公司理财(原书第5版).part03.rar" />
+        <File Name="公司理财(原书第5版).part04.rar" Path="E:\e-book\专业书籍\公司理财\公司理财(原书第5版).part04.rar" />
+        <File Name="公司理财(原书第5版).part05.rar" Path="E:\e-book\专业书籍\公司理财\公司理财(原书第5版).part05.rar" />
+        <File Name="公司理财(原书第5版).part06.rar" Path="E:\e-book\专业书籍\公司理财\公司理财(原书第5版).part06.rar" />
+        <File Name="公司理财(原书第5版).part07.rar" Path="E:\e-book\专业书籍\公司理财\公司理财(原书第5版).part07.rar" />
+        <File Name="公司理财(原书第5版).part08.rar" Path="E:\e-book\专业书籍\公司理财\公司理财(原书第5版).part08.rar" />
+        <File Name="公司理财(原书第5版).part09.rar" Path="E:\e-book\专业书籍\公司理财\公司理财(原书第5版).part09.rar" />
+        <File Name="公司理财(原书第5版).part10.rar" Path="E:\e-book\专业书籍\公司理财\公司理财(原书第5版).part10.rar" />
+        <File Name="公司理财(原书第5版).part11.rar" Path="E:\e-book\专业书籍\公司理财\公司理财(原书第5版).part11.rar" />
+        <File Name="公司理财(原书第5版).part12.rar" Path="E:\e-book\专业书籍\公司理财\公司理财(原书第5版).part12.rar" />
+      </Path>
+      <Path Name="十讲" FullPath="E:\e-book\专业书籍\十讲">
+        <File Name="10.rar" Path="E:\e-book\专业书籍\十讲\10.rar" />
+        <File Name="3.rar" Path="E:\e-book\专业书籍\十讲\3.rar" />
+        <File Name="4.rar" Path="E:\e-book\专业书籍\十讲\4.rar" />
+        <File Name="5.rar" Path="E:\e-book\专业书籍\十讲\5.rar" />
+        <File Name="6.rar" Path="E:\e-book\专业书籍\十讲\6.rar" />
+        <File Name="7.rar" Path="E:\e-book\专业书籍\十讲\7.rar" />
+        <File Name="8.rar" Path="E:\e-book\专业书籍\十讲\8.rar" />
+        <File Name="9.rar" Path="E:\e-book\专业书籍\十讲\9.rar" />
+        <File Name="史树中的金融经济学十讲大纲.rar" Path="E:\e-book\专业书籍\十讲\史树中的金融经济学十讲大纲.rar" />
+        <File Name="引言.rar" Path="E:\e-book\专业书籍\十讲\引言.rar" />
+        <File Name="第一讲.rar" Path="E:\e-book\专业书籍\十讲\第一讲.rar" />
+        <File Name="第二讲.rar" Path="E:\e-book\专业书籍\十讲\第二讲.rar" />
+      </Path>
+      <Path Name="华尔街理财实践" FullPath="E:\e-book\专业书籍\华尔街理财实践">
+        <File Name="华尔街理财实践记.part01.rar" Path="E:\e-book\专业书籍\华尔街理财实践\华尔街理财实践记.part01.rar" />
+        <File Name="华尔街理财实践记.part02.rar" Path="E:\e-book\专业书籍\华尔街理财实践\华尔街理财实践记.part02.rar" />
+        <File Name="华尔街理财实践记.part03.rar" Path="E:\e-book\专业书籍\华尔街理财实践\华尔街理财实践记.part03.rar" />
+        <File Name="华尔街理财实践记.part04.rar" Path="E:\e-book\专业书籍\华尔街理财实践\华尔街理财实践记.part04.rar" />
+        <File Name="华尔街理财实践记.part05.rar" Path="E:\e-book\专业书籍\华尔街理财实践\华尔街理财实践记.part05.rar" />
+        <File Name="华尔街理财实践记.part06.rar" Path="E:\e-book\专业书籍\华尔街理财实践\华尔街理财实践记.part06.rar" />
+        <File Name="华尔街理财实践记.part07.rar" Path="E:\e-book\专业书籍\华尔街理财实践\华尔街理财实践记.part07.rar" />
+        <File Name="华尔街理财实践记.part08.rar" Path="E:\e-book\专业书籍\华尔街理财实践\华尔街理财实践记.part08.rar" />
+        <File Name="华尔街理财实践记.part09.rar" Path="E:\e-book\专业书籍\华尔街理财实践\华尔街理财实践记.part09.rar" />
+        <File Name="华尔街理财实践记.part10.rar" Path="E:\e-book\专业书籍\华尔街理财实践\华尔街理财实践记.part10.rar" />
+        <File Name="华尔街理财实践记.part11.rar" Path="E:\e-book\专业书籍\华尔街理财实践\华尔街理财实践记.part11.rar" />
+      </Path>
+      <Path Name="投行" FullPath="E:\e-book\专业书籍\投行">
+        <Path Name="摩根斯坦利的IPO简介" FullPath="E:\e-book\专业书籍\投行\摩根斯坦利的IPO简介">
+          <File Name="IPO简介.pdf" Path="E:\e-book\专业书籍\投行\摩根斯坦利的IPO简介\IPO简介.pdf" />
+        </Path>
+      </Path>
+      <Path Name="证券从业考试" FullPath="E:\e-book\专业书籍\证券从业考试">
+        <Path Name="公司并购" FullPath="E:\e-book\专业书籍\证券从业考试\公司并购">
+          <File Name="资格考试(5)公司购并与案例.part01.rar" Path="E:\e-book\专业书籍\证券从业考试\公司并购\资格考试(5)公司购并与案例.part01.rar" />
+          <File Name="资格考试(5)公司购并与案例.part02.rar" Path="E:\e-book\专业书籍\证券从业考试\公司并购\资格考试(5)公司购并与案例.part02.rar" />
+          <File Name="资格考试(5)公司购并与案例.part03.rar" Path="E:\e-book\专业书籍\证券从业考试\公司并购\资格考试(5)公司购并与案例.part03.rar" />
+          <File Name="资格考试(5)公司购并与案例.part04.rar" Path="E:\e-book\专业书籍\证券从业考试\公司并购\资格考试(5)公司购并与案例.part04.rar" />
+          <File Name="资格考试(5)公司购并与案例.part05.rar" Path="E:\e-book\专业书籍\证券从业考试\公司并购\资格考试(5)公司购并与案例.part05.rar" />
+          <File Name="资格考试(5)公司购并与案例.part06.rar" Path="E:\e-book\专业书籍\证券从业考试\公司并购\资格考试(5)公司购并与案例.part06.rar" />
+          <File Name="资格考试(5)公司购并与案例.part07.rar" Path="E:\e-book\专业书籍\证券从业考试\公司并购\资格考试(5)公司购并与案例.part07.rar" />
+          <File Name="资格考试(5)公司购并与案例.part08.rar" Path="E:\e-book\专业书籍\证券从业考试\公司并购\资格考试(5)公司购并与案例.part08.rar" />
+          <File Name="资格考试(5)公司购并与案例.part09.rar" Path="E:\e-book\专业书籍\证券从业考试\公司并购\资格考试(5)公司购并与案例.part09.rar" />
+          <File Name="资格考试(5)公司购并与案例.part10.rar" Path="E:\e-book\专业书籍\证券从业考试\公司并购\资格考试(5)公司购并与案例.part10.rar" />
+        </Path>
+        <Path Name="公司的设立" FullPath="E:\e-book\专业书籍\证券从业考试\公司的设立">
+          <File Name="资格考试(1)-公司的设立与改组.part1.rar" Path="E:\e-book\专业书籍\证券从业考试\公司的设立\资格考试(1)-公司的设立与改组.part1.rar" />
+          <File Name="资格考试(1)-公司的设立与改组.part2.rar" Path="E:\e-book\专业书籍\证券从业考试\公司的设立\资格考试(1)-公司的设立与改组.part2.rar" />
+          <File Name="资格考试(1)-公司的设立与改组.part3.rar" Path="E:\e-book\专业书籍\证券从业考试\公司的设立\资格考试(1)-公司的设立与改组.part3.rar" />
+          <File Name="资格考试(1)-公司的设立与改组.part4.rar" Path="E:\e-book\专业书籍\证券从业考试\公司的设立\资格考试(1)-公司的设立与改组.part4.rar" />
+          <File Name="资格考试(1)-公司的设立与改组.part5.rar" Path="E:\e-book\专业书籍\证券从业考试\公司的设立\资格考试(1)-公司的设立与改组.part5.rar" />
+          <File Name="资格考试(1)-公司的设立与改组.part6.rar" Path="E:\e-book\专业书籍\证券从业考试\公司的设立\资格考试(1)-公司的设立与改组.part6.rar" />
+          <File Name="资格考试(1)-公司的设立与改组.part7 (1).rar" Path="E:\e-book\专业书籍\证券从业考试\公司的设立\资格考试(1)-公司的设立与改组.part7 (1).rar" />
+          <File Name="资格考试(1)-公司的设立与改组.part7.rar" Path="E:\e-book\专业书籍\证券从业考试\公司的设立\资格考试(1)-公司的设立与改组.part7.rar" />
+          <File Name="资格考试(1)-公司的设立与改组.part（（1））.rar" Path="E:\e-book\专业书籍\证券从业考试\公司的设立\资格考试(1)-公司的设立与改组.part（（1））.rar" />
+        </Path>
+        <Path Name="法规" FullPath="E:\e-book\专业书籍\证券从业考试\法规">
+          <File Name="资格考试(7)中国证券法规总汇.part01.rar" Path="E:\e-book\专业书籍\证券从业考试\法规\资格考试(7)中国证券法规总汇.part01.rar" />
+          <File Name="资格考试(7)中国证券法规总汇.part02.rar" Path="E:\e-book\专业书籍\证券从业考试\法规\资格考试(7)中国证券法规总汇.part02.rar" />
+          <File Name="资格考试(7)中国证券法规总汇.part03.rar" Path="E:\e-book\专业书籍\证券从业考试\法规\资格考试(7)中国证券法规总汇.part03.rar" />
+          <File Name="资格考试(7)中国证券法规总汇.part04.rar" Path="E:\e-book\专业书籍\证券从业考试\法规\资格考试(7)中国证券法规总汇.part04.rar" />
+          <File Name="资格考试(7)中国证券法规总汇.part05.rar" Path="E:\e-book\专业书籍\证券从业考试\法规\资格考试(7)中国证券法规总汇.part05.rar" />
+          <File Name="资格考试(7)中国证券法规总汇.part06.rar" Path="E:\e-book\专业书籍\证券从业考试\法规\资格考试(7)中国证券法规总汇.part06.rar" />
+          <File Name="资格考试(7)中国证券法规总汇.part07 (1).rar" Path="E:\e-book\专业书籍\证券从业考试\法规\资格考试(7)中国证券法规总汇.part07 (1).rar" />
+          <File Name="资格考试(7)中国证券法规总汇.part07 (2).rar" Path="E:\e-book\专业书籍\证券从业考试\法规\资格考试(7)中国证券法规总汇.part07 (2).rar" />
+          <File Name="资格考试(7)中国证券法规总汇.part07.rar" Path="E:\e-book\专业书籍\证券从业考试\法规\资格考试(7)中国证券法规总汇.part07.rar" />
+          <File Name="资格考试(7)中国证券法规总汇.part08.rar" Path="E:\e-book\专业书籍\证券从业考试\法规\资格考试(7)中国证券法规总汇.part08.rar" />
+          <File Name="资格考试(7)中国证券法规总汇.part09 (1).rar" Path="E:\e-book\专业书籍\证券从业考试\法规\资格考试(7)中国证券法规总汇.part09 (1).rar" />
+          <File Name="资格考试(7)中国证券法规总汇.part09.rar" Path="E:\e-book\专业书籍\证券从业考试\法规\资格考试(7)中国证券法规总汇.part09.rar" />
+          <File Name="资格考试(7)中国证券法规总汇.part10.rar" Path="E:\e-book\专业书籍\证券从业考试\法规\资格考试(7)中国证券法规总汇.part10.rar" />
+        </Path>
+        <Path Name="海外证券市场" FullPath="E:\e-book\专业书籍\证券从业考试\海外证券市场">
+          <File Name="资格考试(6)海外证券市场.part1.rar" Path="E:\e-book\专业书籍\证券从业考试\海外证券市场\资格考试(6)海外证券市场.part1.rar" />
+          <File Name="资格考试(6)海外证券市场.part2.rar" Path="E:\e-book\专业书籍\证券从业考试\海外证券市场\资格考试(6)海外证券市场.part2.rar" />
+          <File Name="资格考试(6)海外证券市场.part3.rar" Path="E:\e-book\专业书籍\证券从业考试\海外证券市场\资格考试(6)海外证券市场.part3.rar" />
+          <File Name="资格考试(6)海外证券市场.part4.rar" Path="E:\e-book\专业书籍\证券从业考试\海外证券市场\资格考试(6)海外证券市场.part4.rar" />
+          <File Name="资格考试(6)海外证券市场.part5.rar" Path="E:\e-book\专业书籍\证券从业考试\海外证券市场\资格考试(6)海外证券市场.part5.rar" />
+          <File Name="资格考试(6)海外证券市场.part6.rar" Path="E:\e-book\专业书籍\证券从业考试\海外证券市场\资格考试(6)海外证券市场.part6.rar" />
+          <File Name="资格考试(6)海外证券市场.part7.rar" Path="E:\e-book\专业书籍\证券从业考试\海外证券市场\资格考试(6)海外证券市场.part7.rar" />
+        </Path>
+        <Path Name="证券发行" FullPath="E:\e-book\专业书籍\证券从业考试\证券发行">
+          <File Name="资格考试(3)证券发行与交易.part1.rar" Path="E:\e-book\专业书籍\证券从业考试\证券发行\资格考试(3)证券发行与交易.part1.rar" />
+          <File Name="资格考试(3)证券发行与交易.part2.rar" Path="E:\e-book\专业书籍\证券从业考试\证券发行\资格考试(3)证券发行与交易.part2.rar" />
+          <File Name="资格考试(3)证券发行与交易.part3.rar" Path="E:\e-book\专业书籍\证券从业考试\证券发行\资格考试(3)证券发行与交易.part3.rar" />
+          <File Name="资格考试(3)证券发行与交易.part4.rar" Path="E:\e-book\专业书籍\证券从业考试\证券发行\资格考试(3)证券发行与交易.part4.rar" />
+          <File Name="资格考试(3)证券发行与交易.part5.rar" Path="E:\e-book\专业书籍\证券从业考试\证券发行\资格考试(3)证券发行与交易.part5.rar" />
+          <File Name="资格考试(3)证券发行与交易.part6.rar" Path="E:\e-book\专业书籍\证券从业考试\证券发行\资格考试(3)证券发行与交易.part6.rar" />
+          <File Name="资格考试(3)证券发行与交易.part7.rar" Path="E:\e-book\专业书籍\证券从业考试\证券发行\资格考试(3)证券发行与交易.part7.rar" />
+          <File Name="资格考试(3)证券发行与交易.part8.rar" Path="E:\e-book\专业书籍\证券从业考试\证券发行\资格考试(3)证券发行与交易.part8.rar" />
+          <File Name="资格考试(3)证券发行与交易.pdf" Path="E:\e-book\专业书籍\证券从业考试\证券发行\资格考试(3)证券发行与交易.pdf" />
+        </Path>
+      </Path>
+      <Path Name="金融英语" FullPath="E:\e-book\专业书籍\金融英语">
+        <File Name="商业金融术语.rar" Path="E:\e-book\专业书籍\金融英语\商业金融术语.rar" />
+        <File Name="英汉证券期货及财务用语汇编.part1.rar" Path="E:\e-book\专业书籍\金融英语\英汉证券期货及财务用语汇编.part1.rar" />
+        <File Name="英汉证券期货及财务用语汇编.part2.rar" Path="E:\e-book\专业书籍\金融英语\英汉证券期货及财务用语汇编.part2.rar" />
+        <File Name="英汉证券期货及财务用语汇编.part3.rar" Path="E:\e-book\专业书籍\金融英语\英汉证券期货及财务用语汇编.part3.rar" />
+        <File Name="英汉证券期货及财务用语汇编.part4.rar" Path="E:\e-book\专业书籍\金融英语\英汉证券期货及财务用语汇编.part4.rar" />
+      </Path>
+    </Path>
+    <Path Name="会计" FullPath="E:\e-book\会计">
+      <File Name="09cpa_new_zzfjc1b_m.mp3" Path="E:\e-book\会计\09cpa_new_zzfjc1b_m.mp3" />
+      <File Name="09cpa_new_zzfjc2a_m.mp3" Path="E:\e-book\会计\09cpa_new_zzfjc2a_m.mp3" />
+      <File Name="09cpa_new_zzfjc2b_m.mp3" Path="E:\e-book\会计\09cpa_new_zzfjc2b_m.mp3" />
+      <File Name="09cpa_new_zzfjc2c_m.mp3" Path="E:\e-book\会计\09cpa_new_zzfjc2c_m.mp3" />
+      <File Name="09cpa_new_zzfjc2d_m.mp3" Path="E:\e-book\会计\09cpa_new_zzfjc2d_m.mp3" />
+      <File Name="09cpa_new_zzfjc2e_m.mp3" Path="E:\e-book\会计\09cpa_new_zzfjc2e_m.mp3" />
+      <File Name="09cpa_new_zzfjc3a_m.mp3" Path="E:\e-book\会计\09cpa_new_zzfjc3a_m.mp3" />
+      <File Name="09cpa_new_zzfjc3b_m.mp3" Path="E:\e-book\会计\09cpa_new_zzfjc3b_m.mp3" />
+      <File Name="09cpa_new_zzfjc4a_m.mp3" Path="E:\e-book\会计\09cpa_new_zzfjc4a_m.mp3" />
+      <File Name="09cpa_new_zzfjc4b_m.mp3" Path="E:\e-book\会计\09cpa_new_zzfjc4b_m.mp3" />
+      <File Name="09cpa_new_zzfjc4c_m.mp3" Path="E:\e-book\会计\09cpa_new_zzfjc4c_m.mp3" />
+      <File Name="09cpa_new_zzfjc4d_m.mp3" Path="E:\e-book\会计\09cpa_new_zzfjc4d_m.mp3" />
+      <File Name="09cpa_new_zzfjc4e_m.mp3" Path="E:\e-book\会计\09cpa_new_zzfjc4e_m.mp3" />
+      <File Name="09cpa_new_zzfjc4f_m.mp3" Path="E:\e-book\会计\09cpa_new_zzfjc4f_m.mp3" />
+      <File Name="09cpa_new_zzfjc5a_w.wma" Path="E:\e-book\会计\09cpa_new_zzfjc5a_w.wma" />
+      <File Name="09cpa_new_zzfjc5b_w.wma" Path="E:\e-book\会计\09cpa_new_zzfjc5b_w.wma" />
+      <File Name="09cpa_new_zzfjc5c_w.wma" Path="E:\e-book\会计\09cpa_new_zzfjc5c_w.wma" />
+      <File Name="09cpa_new_zzfjc6a_w.wma" Path="E:\e-book\会计\09cpa_new_zzfjc6a_w.wma" />
+      <File Name="09cpa_zzfjc1a_m.mp3" Path="E:\e-book\会计\09cpa_zzfjc1a_m.mp3" />
+      <File Name="09cpa_zzfjcqy_m.mp3" Path="E:\e-book\会计\09cpa_zzfjcqy_m.mp3" />
+    </Path>
+    <Path Name="养生" FullPath="E:\e-book\养生">
+      <Path Name="《按摩治疗颈椎病》" FullPath="E:\e-book\养生\《按摩治疗颈椎病》">
+        <File Name="《按摩治疗颈椎病》.txt" Path="E:\e-book\养生\《按摩治疗颈椎病》\《按摩治疗颈椎病》.txt" />
+        <File Name="按摩治疗颈椎病.rm" Path="E:\e-book\养生\《按摩治疗颈椎病》\按摩治疗颈椎病.rm" />
+      </Path>
+    </Path>
+    <Path Name="文字" FullPath="E:\e-book\文字">
+      <Path Name="diary" FullPath="E:\e-book\文字\diary">
+        <File Name="070823午餐饭后随想.doc" Path="E:\e-book\文字\diary\070823午餐饭后随想.doc" />
+        <File Name="20090702第一次骑行.docx" Path="E:\e-book\文字\diary\20090702第一次骑行.docx" />
+        <File Name="20090704第二次骑行.docx" Path="E:\e-book\文字\diary\20090704第二次骑行.docx" />
+        <File Name="20090705关于心理预期.docx" Path="E:\e-book\文字\diary\20090705关于心理预期.docx" />
+      </Path>
+      <Path Name="ms日子" FullPath="E:\e-book\文字\ms日子">
+        <Path Name="未列" FullPath="E:\e-book\文字\ms日子\未列" />
+      </Path>
+      <Path Name="杂" FullPath="E:\e-book\文字\杂">
+        <File Name="小痴的话.doc" Path="E:\e-book\文字\杂\小痴的话.doc" />
+        <File Name="工作总结.doc" Path="E:\e-book\文字\杂\工作总结.doc" />
+        <File Name="往事.doc" Path="E:\e-book\文字\杂\往事.doc" />
+        <File Name="怀念我的同窗.doc" Path="E:\e-book\文字\杂\怀念我的同窗.doc" />
+        <File Name="新建 Microsoft Word 文档.doc" Path="E:\e-book\文字\杂\新建 Microsoft Word 文档.doc" />
+      </Path>
+      <Path Name="老公" FullPath="E:\e-book\文字\老公">
+        <Path Name="值得保留的" FullPath="E:\e-book\文字\老公\值得保留的">
+          <File Name="beibei_137119407349 - 20091123.xml" Path="E:\e-book\文字\老公\值得保留的\beibei_137119407349 - 20091123.xml" />
+          <File Name="beibei_137119407349 - Archive.xml" Path="E:\e-book\文字\老公\值得保留的\beibei_137119407349 - Archive.xml" />
+          <File Name="beibei_137119407349.xml" Path="E:\e-book\文字\老公\值得保留的\beibei_137119407349.xml" />
+          <File Name="beibei_1371194073492.xml" Path="E:\e-book\文字\老公\值得保留的\beibei_1371194073492.xml" />
+          <File Name="MessageLog.xsl" Path="E:\e-book\文字\老公\值得保留的\MessageLog.xsl" />
+        </Path>
+      </Path>
+    </Path>
+    <Path Name="新东方.韩语入门一月通书.FLASH全套" FullPath="E:\e-book\新东方.韩语入门一月通书.FLASH全套">
+      <Path Name="新东方.韩语入门一月通" FullPath="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通">
+        <Path Name="新东方在线教程推荐使用的两款发布版播放器" FullPath="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\新东方在线教程推荐使用的两款发布版播放器">
+          <Path Name="QQflasher1.8" FullPath="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\新东方在线教程推荐使用的两款发布版播放器\QQflasher1.8">
+            <File Name="QQFlasher18setup.exe" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\新东方在线教程推荐使用的两款发布版播放器\QQflasher1.8\QQFlasher18setup.exe" />
+            <File Name="setup18NoSkin.exe" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\新东方在线教程推荐使用的两款发布版播放器\QQflasher1.8\setup18NoSkin.exe" />
+          </Path>
+          <Path Name="ZzFlash1.4" FullPath="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\新东方在线教程推荐使用的两款发布版播放器\ZzFlash1.4">
+            <File Name="readme.rtf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\新东方在线教程推荐使用的两款发布版播放器\ZzFlash1.4\readme.rtf" />
+            <File Name="sslclientnew.cab" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\新东方在线教程推荐使用的两款发布版播放器\ZzFlash1.4\sslclientnew.cab" />
+            <File Name="swf.ini" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\新东方在线教程推荐使用的两款发布版播放器\ZzFlash1.4\swf.ini" />
+            <File Name="zz.Rec" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\新东方在线教程推荐使用的两款发布版播放器\ZzFlash1.4\zz.Rec" />
+            <File Name="ZzFlash 播放器.exe" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\新东方在线教程推荐使用的两款发布版播放器\ZzFlash1.4\ZzFlash 播放器.exe" />
+            <File Name="更新日志.txt" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\新东方在线教程推荐使用的两款发布版播放器\ZzFlash1.4\更新日志.txt" />
+            <File Name="语音帮助.txt" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\新东方在线教程推荐使用的两款发布版播放器\ZzFlash1.4\语音帮助.txt" />
+          </Path>
+          <Path Name="插件" FullPath="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\新东方在线教程推荐使用的两款发布版播放器\插件">
+            <Path Name="sslclientnew" FullPath="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\新东方在线教程推荐使用的两款发布版播放器\插件\sslclientnew">
+              <File Name="sslclient.inf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\新东方在线教程推荐使用的两款发布版播放器\插件\sslclientnew\sslclient.inf" />
+              <File Name="sslclientnew.ocx" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\新东方在线教程推荐使用的两款发布版播放器\插件\sslclientnew\sslclientnew.ocx" />
+              <File Name="TOL24Res.dll" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\新东方在线教程推荐使用的两款发布版播放器\插件\sslclientnew\TOL24Res.dll" />
+            </Path>
+          </Path>
+        </Path>
+        <Path Name="网络课堂" FullPath="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂">
+          <Path Name="韩语全能交际韩语 安美英 30.0课时" FullPath="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时">
+            <File Name="tol24.com01-1.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com01-1.swf" />
+            <File Name="tol24.com01-2.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com01-2.swf" />
+            <File Name="tol24.com01-3.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com01-3.swf" />
+            <File Name="tol24.com01-4.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com01-4.swf" />
+            <File Name="tol24.com02-1.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com02-1.swf" />
+            <File Name="tol24.com02-2.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com02-2.swf" />
+            <File Name="tol24.com02-3.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com02-3.swf" />
+            <File Name="tol24.com02-4.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com02-4.swf" />
+            <File Name="tol24.com03-1.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com03-1.swf" />
+            <File Name="tol24.com03-2.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com03-2.swf" />
+            <File Name="tol24.com03-3.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com03-3.swf" />
+            <File Name="tol24.com03-4.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com03-4.swf" />
+            <File Name="tol24.com04-1.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com04-1.swf" />
+            <File Name="tol24.com04-2.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com04-2.swf" />
+            <File Name="tol24.com04-3.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com04-3.swf" />
+            <File Name="tol24.com04-4.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com04-4.swf" />
+            <File Name="tol24.com05-1.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com05-1.swf" />
+            <File Name="tol24.com05-2.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com05-2.swf" />
+            <File Name="tol24.com05-3.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com05-3.swf" />
+            <File Name="tol24.com05-4.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com05-4.swf" />
+            <File Name="tol24.com06-1.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com06-1.swf" />
+            <File Name="tol24.com06-2.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com06-2.swf" />
+            <File Name="tol24.com06-3.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com06-3.swf" />
+            <File Name="tol24.com06-4.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com06-4.swf" />
+            <File Name="tol24.com07-1.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com07-1.swf" />
+            <File Name="tol24.com07-2.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com07-2.swf" />
+            <File Name="tol24.com07-3.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com07-3.swf" />
+            <File Name="tol24.com07-4.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com07-4.swf" />
+            <File Name="tol24.com08-1.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com08-1.swf" />
+            <File Name="tol24.com08-2.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com08-2.swf" />
+            <File Name="tol24.com08-3.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com08-3.swf" />
+            <File Name="tol24.com08-4.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com08-4.swf" />
+            <File Name="tol24.com09-1.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com09-1.swf" />
+            <File Name="tol24.com09-2.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com09-2.swf" />
+            <File Name="tol24.com09-3.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com09-3.swf" />
+            <File Name="tol24.com09-4.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com09-4.swf" />
+            <File Name="tol24.com10-1.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com10-1.swf" />
+            <File Name="tol24.com10-2.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com10-2.swf" />
+            <File Name="tol24.com10-3.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com10-3.swf" />
+            <File Name="tol24.com10-4.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com10-4.swf" />
+            <File Name="tol24.com11-1.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com11-1.swf" />
+            <File Name="tol24.com11-2.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com11-2.swf" />
+            <File Name="tol24.com11-3.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com11-3.swf" />
+            <File Name="tol24.com11-4.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com11-4.swf" />
+            <File Name="tol24.com12-1.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com12-1.swf" />
+            <File Name="tol24.com12-2.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com12-2.swf" />
+            <File Name="tol24.com12-3.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com12-3.swf" />
+            <File Name="tol24.com12-4.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com12-4.swf" />
+            <File Name="tol24.com13-1.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com13-1.swf" />
+            <File Name="tol24.com13-2.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com13-2.swf" />
+            <File Name="tol24.com13-3.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com13-3.swf" />
+            <File Name="tol24.com13-4.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com13-4.swf" />
+            <File Name="tol24.com14-1.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com14-1.swf" />
+            <File Name="tol24.com14-2.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com14-2.swf" />
+            <File Name="tol24.com14-3.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com14-3.swf" />
+            <File Name="tol24.com14-4.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com14-4.swf" />
+            <File Name="tol24.com15-1.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com15-1.swf" />
+            <File Name="tol24.com15-2.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com15-2.swf" />
+            <File Name="tol24.com15-3.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com15-3.swf" />
+            <File Name="tol24.com15-4.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com15-4.swf" />
+            <File Name="tol24.com16-1.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com16-1.swf" />
+            <File Name="tol24.com16-2.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com16-2.swf" />
+            <File Name="tol24.com16-3.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com16-3.swf" />
+            <File Name="tol24.com16-4.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com16-4.swf" />
+            <File Name="tol24.com17-1.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com17-1.swf" />
+            <File Name="tol24.com17-2.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com17-2.swf" />
+            <File Name="tol24.com17-3.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com17-3.swf" />
+            <File Name="tol24.com17-4.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com17-4.swf" />
+            <File Name="tol24.com18-1.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com18-1.swf" />
+            <File Name="tol24.com18-2.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com18-2.swf" />
+            <File Name="tol24.com18-3.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com18-3.swf" />
+            <File Name="tol24.com18-4.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com18-4.swf" />
+            <File Name="tol24.com19-1.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com19-1.swf" />
+            <File Name="tol24.com19-2.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com19-2.swf" />
+            <File Name="tol24.com19-3.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com19-3.swf" />
+            <File Name="tol24.com19-4.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com19-4.swf" />
+            <File Name="tol24.com20-1.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com20-1.swf" />
+            <File Name="tol24.com20-2.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com20-2.swf" />
+            <File Name="tol24.com20-3.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com20-3.swf" />
+            <File Name="tol24.com20-4.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com20-4.swf" />
+            <File Name="tol24.com21-1.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com21-1.swf" />
+            <File Name="tol24.com21-2.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com21-2.swf" />
+            <File Name="tol24.com21-3.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com21-3.swf" />
+            <File Name="tol24.com21-4.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com21-4.swf" />
+            <File Name="tol24.com22-1.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com22-1.swf" />
+            <File Name="tol24.com22-2.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com22-2.swf" />
+            <File Name="tol24.com22-3.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com22-3.swf" />
+            <File Name="tol24.com22-4.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com22-4.swf" />
+            <File Name="tol24.com23-1.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com23-1.swf" />
+            <File Name="tol24.com23-2.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com23-2.swf" />
+            <File Name="tol24.com23-3.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com23-3.swf" />
+            <File Name="tol24.com23-4.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com23-4.swf" />
+            <File Name="tol24.com24-1.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com24-1.swf" />
+            <File Name="tol24.com24-2.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com24-2.swf" />
+            <File Name="tol24.com24-3.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com24-3.swf" />
+            <File Name="tol24.com24-4.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com24-4.swf" />
+            <File Name="tol24.com25-1.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com25-1.swf" />
+            <File Name="tol24.com25-2.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com25-2.swf" />
+            <File Name="tol24.com25-3.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com25-3.swf" />
+            <File Name="tol24.com25-4.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com25-4.swf" />
+            <File Name="tol24.com26-1.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com26-1.swf" />
+            <File Name="tol24.com26-2.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com26-2.swf" />
+            <File Name="tol24.com26-3.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com26-3.swf" />
+            <File Name="tol24.com26-4.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com26-4.swf" />
+            <File Name="tol24.com27-1.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com27-1.swf" />
+            <File Name="tol24.com27-2.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com27-2.swf" />
+            <File Name="tol24.com27-3.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com27-3.swf" />
+            <File Name="tol24.com27-4.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com27-4.swf" />
+            <File Name="tol24.com28-1.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com28-1.swf" />
+            <File Name="tol24.com28-2.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com28-2.swf" />
+            <File Name="tol24.com28-3.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com28-3.swf" />
+            <File Name="tol24.com28-4.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com28-4.swf" />
+            <File Name="tol24.com29-1.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com29-1.swf" />
+            <File Name="tol24.com29-2.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com29-2.swf" />
+            <File Name="tol24.com29-3.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com29-3.swf" />
+            <File Name="tol24.com29-4.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com29-4.swf" />
+            <File Name="tol24.com30-1.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com30-1.swf" />
+            <File Name="tol24.com30-2.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com30-2.swf" />
+            <File Name="tol24.com30-3.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com30-3.swf" />
+            <File Name="tol24.com30-4.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语全能交际韩语 安美英 30.0课时\tol24.com30-4.swf" />
+          </Path>
+          <Path Name="韩语实用韩语语法 安美英 9.75课时" FullPath="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语实用韩语语法 安美英 9.75课时">
+            <File Name="tol24.com01-1.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语实用韩语语法 安美英 9.75课时\tol24.com01-1.swf" />
+            <File Name="tol24.com01-2.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语实用韩语语法 安美英 9.75课时\tol24.com01-2.swf" />
+            <File Name="tol24.com01-3.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语实用韩语语法 安美英 9.75课时\tol24.com01-3.swf" />
+            <File Name="tol24.com01-4.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语实用韩语语法 安美英 9.75课时\tol24.com01-4.swf" />
+            <File Name="tol24.com02-1.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语实用韩语语法 安美英 9.75课时\tol24.com02-1.swf" />
+            <File Name="tol24.com02-2.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语实用韩语语法 安美英 9.75课时\tol24.com02-2.swf" />
+            <File Name="tol24.com02-3.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语实用韩语语法 安美英 9.75课时\tol24.com02-3.swf" />
+            <File Name="tol24.com02-4.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语实用韩语语法 安美英 9.75课时\tol24.com02-4.swf" />
+            <File Name="tol24.com03-1.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语实用韩语语法 安美英 9.75课时\tol24.com03-1.swf" />
+            <File Name="tol24.com03-2.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语实用韩语语法 安美英 9.75课时\tol24.com03-2.swf" />
+            <File Name="tol24.com03-3.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语实用韩语语法 安美英 9.75课时\tol24.com03-3.swf" />
+            <File Name="tol24.com03-4.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语实用韩语语法 安美英 9.75课时\tol24.com03-4.swf" />
+            <File Name="tol24.com04-1.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语实用韩语语法 安美英 9.75课时\tol24.com04-1.swf" />
+            <File Name="tol24.com04-2.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语实用韩语语法 安美英 9.75课时\tol24.com04-2.swf" />
+            <File Name="tol24.com04-3.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语实用韩语语法 安美英 9.75课时\tol24.com04-3.swf" />
+            <File Name="tol24.com04-4.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语实用韩语语法 安美英 9.75课时\tol24.com04-4.swf" />
+            <File Name="tol24.com05-1.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语实用韩语语法 安美英 9.75课时\tol24.com05-1.swf" />
+            <File Name="tol24.com05-2.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语实用韩语语法 安美英 9.75课时\tol24.com05-2.swf" />
+            <File Name="tol24.com05-3.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语实用韩语语法 安美英 9.75课时\tol24.com05-3.swf" />
+            <File Name="tol24.com05-4.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语实用韩语语法 安美英 9.75课时\tol24.com05-4.swf" />
+            <File Name="tol24.com06-1.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语实用韩语语法 安美英 9.75课时\tol24.com06-1.swf" />
+            <File Name="tol24.com06-2.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语实用韩语语法 安美英 9.75课时\tol24.com06-2.swf" />
+            <File Name="tol24.com06-3.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语实用韩语语法 安美英 9.75课时\tol24.com06-3.swf" />
+            <File Name="tol24.com06-4.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语实用韩语语法 安美英 9.75课时\tol24.com06-4.swf" />
+            <File Name="tol24.com07-1.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语实用韩语语法 安美英 9.75课时\tol24.com07-1.swf" />
+            <File Name="tol24.com07-2.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语实用韩语语法 安美英 9.75课时\tol24.com07-2.swf" />
+            <File Name="tol24.com07-3.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语实用韩语语法 安美英 9.75课时\tol24.com07-3.swf" />
+            <File Name="tol24.com07-4.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语实用韩语语法 安美英 9.75课时\tol24.com07-4.swf" />
+            <File Name="tol24.com08-1.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语实用韩语语法 安美英 9.75课时\tol24.com08-1.swf" />
+            <File Name="tol24.com08-2.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语实用韩语语法 安美英 9.75课时\tol24.com08-2.swf" />
+            <File Name="tol24.com08-3.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语实用韩语语法 安美英 9.75课时\tol24.com08-3.swf" />
+            <File Name="tol24.com08-4.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语实用韩语语法 安美英 9.75课时\tol24.com08-4.swf" />
+            <File Name="tol24.com09-1.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语实用韩语语法 安美英 9.75课时\tol24.com09-1.swf" />
+            <File Name="tol24.com09-2.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语实用韩语语法 安美英 9.75课时\tol24.com09-2.swf" />
+            <File Name="tol24.com09-3.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语实用韩语语法 安美英 9.75课时\tol24.com09-3.swf" />
+            <File Name="tol24.com09-4.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语实用韩语语法 安美英 9.75课时\tol24.com09-4.swf" />
+            <File Name="tol24.com10-1.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语实用韩语语法 安美英 9.75课时\tol24.com10-1.swf" />
+            <File Name="tol24.com10-2.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语实用韩语语法 安美英 9.75课时\tol24.com10-2.swf" />
+            <File Name="tol24.com10-3.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语实用韩语语法 安美英 9.75课时\tol24.com10-3.swf" />
+          </Path>
+          <Path Name="韩语标准韩语语音及常用单词 安美英 19.75课时" FullPath="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时">
+            <File Name="tol24.com01-1.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com01-1.swf" />
+            <File Name="tol24.com01-2.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com01-2.swf" />
+            <File Name="tol24.com01-3.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com01-3.swf" />
+            <File Name="tol24.com01-4.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com01-4.swf" />
+            <File Name="tol24.com02-1.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com02-1.swf" />
+            <File Name="tol24.com02-2.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com02-2.swf" />
+            <File Name="tol24.com02-3.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com02-3.swf" />
+            <File Name="tol24.com02-4.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com02-4.swf" />
+            <File Name="tol24.com03-1.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com03-1.swf" />
+            <File Name="tol24.com03-2.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com03-2.swf" />
+            <File Name="tol24.com03-3.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com03-3.swf" />
+            <File Name="tol24.com03-4.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com03-4.swf" />
+            <File Name="tol24.com04-1.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com04-1.swf" />
+            <File Name="tol24.com04-2.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com04-2.swf" />
+            <File Name="tol24.com04-3.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com04-3.swf" />
+            <File Name="tol24.com04-4.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com04-4.swf" />
+            <File Name="tol24.com05-1.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com05-1.swf" />
+            <File Name="tol24.com05-2.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com05-2.swf" />
+            <File Name="tol24.com05-3.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com05-3.swf" />
+            <File Name="tol24.com05-4.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com05-4.swf" />
+            <File Name="tol24.com06-1.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com06-1.swf" />
+            <File Name="tol24.com06-2.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com06-2.swf" />
+            <File Name="tol24.com06-3.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com06-3.swf" />
+            <File Name="tol24.com06-4.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com06-4.swf" />
+            <File Name="tol24.com07-1.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com07-1.swf" />
+            <File Name="tol24.com07-2.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com07-2.swf" />
+            <File Name="tol24.com07-3.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com07-3.swf" />
+            <File Name="tol24.com07-4.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com07-4.swf" />
+            <File Name="tol24.com08-1.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com08-1.swf" />
+            <File Name="tol24.com08-2.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com08-2.swf" />
+            <File Name="tol24.com08-3.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com08-3.swf" />
+            <File Name="tol24.com08-4.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com08-4.swf" />
+            <File Name="tol24.com09-1.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com09-1.swf" />
+            <File Name="tol24.com09-2.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com09-2.swf" />
+            <File Name="tol24.com09-3.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com09-3.swf" />
+            <File Name="tol24.com09-4.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com09-4.swf" />
+            <File Name="tol24.com10-1.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com10-1.swf" />
+            <File Name="tol24.com10-2.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com10-2.swf" />
+            <File Name="tol24.com10-3.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com10-3.swf" />
+            <File Name="tol24.com10-4.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com10-4.swf" />
+            <File Name="tol24.com11-1.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com11-1.swf" />
+            <File Name="tol24.com11-2.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com11-2.swf" />
+            <File Name="tol24.com11-3.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com11-3.swf" />
+            <File Name="tol24.com11-4.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com11-4.swf" />
+            <File Name="tol24.com12-1.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com12-1.swf" />
+            <File Name="tol24.com12-2.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com12-2.swf" />
+            <File Name="tol24.com12-3.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com12-3.swf" />
+            <File Name="tol24.com12-4.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com12-4.swf" />
+            <File Name="tol24.com13-1.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com13-1.swf" />
+            <File Name="tol24.com13-2.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com13-2.swf" />
+            <File Name="tol24.com13-3.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com13-3.swf" />
+            <File Name="tol24.com13-4.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com13-4.swf" />
+            <File Name="tol24.com14-1.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com14-1.swf" />
+            <File Name="tol24.com14-2.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com14-2.swf" />
+            <File Name="tol24.com14-3.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com14-3.swf" />
+            <File Name="tol24.com14-4.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com14-4.swf" />
+            <File Name="tol24.com15-1.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com15-1.swf" />
+            <File Name="tol24.com15-2.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com15-2.swf" />
+            <File Name="tol24.com15-3.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com15-3.swf" />
+            <File Name="tol24.com15-4.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com15-4.swf" />
+            <File Name="tol24.com16-1.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com16-1.swf" />
+            <File Name="tol24.com16-2.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com16-2.swf" />
+            <File Name="tol24.com16-3.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com16-3.swf" />
+            <File Name="tol24.com16-4.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com16-4.swf" />
+            <File Name="tol24.com17-1.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com17-1.swf" />
+            <File Name="tol24.com17-2.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com17-2.swf" />
+            <File Name="tol24.com17-3.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com17-3.swf" />
+            <File Name="tol24.com17-4.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com17-4.swf" />
+            <File Name="tol24.com18-1.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com18-1.swf" />
+            <File Name="tol24.com18-2.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com18-2.swf" />
+            <File Name="tol24.com18-3.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com18-3.swf" />
+            <File Name="tol24.com18-4.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com18-4.swf" />
+            <File Name="tol24.com19-1.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com19-1.swf" />
+            <File Name="tol24.com19-2.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com19-2.swf" />
+            <File Name="tol24.com19-3.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com19-3.swf" />
+            <File Name="tol24.com19-4.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com19-4.swf" />
+            <File Name="tol24.com20-1.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com20-1.swf" />
+            <File Name="tol24.com20-2.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com20-2.swf" />
+            <File Name="tol24.com20-3.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\网络课堂\韩语标准韩语语音及常用单词 安美英 19.75课时\tol24.com20-3.swf" />
+          </Path>
+        </Path>
+        <Path Name="讲义" FullPath="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\讲义">
+          <File Name="flash电子书阅读器.exe" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\讲义\flash电子书阅读器.exe" />
+          <File Name="韩语讲义.swf" Path="E:\e-book\新东方.韩语入门一月通书.FLASH全套\新东方.韩语入门一月通\讲义\韩语讲义.swf" />
+        </Path>
+      </Path>
+    </Path>
+    <Path Name="英语" FullPath="E:\e-book\英语">
+      <File Name="English商务口语.doc" Path="E:\e-book\英语\English商务口语.doc" />
+      <File Name="中国人易错的30句话.txt" Path="E:\e-book\英语\中国人易错的30句话.txt" />
+      <File Name="保险商品交换是等价的吗.doc" Path="E:\e-book\英语\保险商品交换是等价的吗.doc" />
+      <File Name="商务英语词汇.doc" Path="E:\e-book\英语\商务英语词汇.doc" />
+      <File Name="外企人员必备.doc" Path="E:\e-book\英语\外企人员必备.doc" />
+      <File Name="英文日常用语.doc" Path="E:\e-book\英语\英文日常用语.doc" />
+      <File Name="菜名的英文说法.txt" Path="E:\e-book\英语\菜名的英文说法.txt" />
+      <File Name="金融词汇.doc" Path="E:\e-book\英语\金融词汇.doc" />
+    </Path>
+    <Path Name="财管" FullPath="E:\e-book\财管">
+      <File Name="09cpa_new_yhhjc1a_m.mp3" Path="E:\e-book\财管\09cpa_new_yhhjc1a_m.mp3" />
+      <File Name="09cpa_new_yhhjc1c_m.mp3" Path="E:\e-book\财管\09cpa_new_yhhjc1c_m.mp3" />
+      <File Name="09cpa_new_yhhjc2b_m.mp3" Path="E:\e-book\财管\09cpa_new_yhhjc2b_m.mp3" />
+      <File Name="09cpa_new_yhhjc2c_m.mp3" Path="E:\e-book\财管\09cpa_new_yhhjc2c_m.mp3" />
+      <File Name="09cpa_new_yhhjc2d_m.mp3" Path="E:\e-book\财管\09cpa_new_yhhjc2d_m.mp3" />
+      <File Name="09cpa_new_yhhjc3a_m.mp3" Path="E:\e-book\财管\09cpa_new_yhhjc3a_m.mp3" />
+      <File Name="09cpa_new_yhhjc3b_w.wma" Path="E:\e-book\财管\09cpa_new_yhhjc3b_w.wma" />
+      <File Name="09cpa_new_yhhjc3c_w.wma" Path="E:\e-book\财管\09cpa_new_yhhjc3c_w.wma" />
+      <File Name="09cpa_new_yhhjc3d_w.wma" Path="E:\e-book\财管\09cpa_new_yhhjc3d_w.wma" />
+      <File Name="09cpa_new_yhhjc4a_w.wma" Path="E:\e-book\财管\09cpa_new_yhhjc4a_w.wma" />
+      <File Name="09cpa_new_yhhjc4b_w.wma" Path="E:\e-book\财管\09cpa_new_yhhjc4b_w.wma" />
+      <File Name="09cpa_new_yhhjc4c_w.wma" Path="E:\e-book\财管\09cpa_new_yhhjc4c_w.wma" />
+      <File Name="09cpa_new_yhhjc4d_w.wma" Path="E:\e-book\财管\09cpa_new_yhhjc4d_w.wma" />
+      <File Name="09cpa_new_yhhjc4e_w.wma" Path="E:\e-book\财管\09cpa_new_yhhjc4e_w.wma" />
+      <File Name="09cpa_new_yhhjc4f_w.wma" Path="E:\e-book\财管\09cpa_new_yhhjc4f_w.wma" />
+      <File Name="09cpa_new_yhhjc5a_m.wma" Path="E:\e-book\财管\09cpa_new_yhhjc5a_m.wma" />
+      <File Name="09cpa_new_yhhjc5b_m.wma" Path="E:\e-book\财管\09cpa_new_yhhjc5b_m.wma" />
+      <File Name="09cpa_new_yhhjc5c_m.wma" Path="E:\e-book\财管\09cpa_new_yhhjc5c_m.wma" />
+      <File Name="09cpa_new_yhhjc5d_m.wma" Path="E:\e-book\财管\09cpa_new_yhhjc5d_m.wma" />
+      <File Name="09cpa_new_yhhjc5e_m.wma" Path="E:\e-book\财管\09cpa_new_yhhjc5e_m.wma" />
+      <File Name="09cpa_new_yhhjc5f_m.wma" Path="E:\e-book\财管\09cpa_new_yhhjc5f_m.wma" />
+      <File Name="09cpa_new_yhhjc5g_m.wma" Path="E:\e-book\财管\09cpa_new_yhhjc5g_m.wma" />
+      <File Name="09cpa_new_yhhjc5h_m.wma" Path="E:\e-book\财管\09cpa_new_yhhjc5h_m.wma" />
+      <File Name="09cpa_new_yhhjc5i_m.wma" Path="E:\e-book\财管\09cpa_new_yhhjc5i_m.wma" />
+      <File Name="09cpa_new_yhhjc5j_m.wma" Path="E:\e-book\财管\09cpa_new_yhhjc5j_m.wma" />
+      <File Name="09cpa_new_yhhjc5k_m.wma" Path="E:\e-book\财管\09cpa_new_yhhjc5k_m.wma" />
+      <File Name="09cpa_new_yhhjc5l_m.wma" Path="E:\e-book\财管\09cpa_new_yhhjc5l_m.wma" />
+      <File Name="09cpa_new_yhhjc6a_m.wma" Path="E:\e-book\财管\09cpa_new_yhhjc6a_m.wma" />
+      <File Name="09cpa_new_yhhjc6b_m.wma" Path="E:\e-book\财管\09cpa_new_yhhjc6b_m.wma" />
+      <File Name="09cpa_new_yhhjc6c_m.wma" Path="E:\e-book\财管\09cpa_new_yhhjc6c_m.wma" />
+      <File Name="09cpa_yhhjcqy_m.mp3" Path="E:\e-book\财管\09cpa_yhhjcqy_m.mp3" />
+    </Path>
+    <Path Name="金融世界听力汇总" FullPath="E:\e-book\金融世界听力汇总">
+      <File Name="money 1.txt" Path="E:\e-book\金融世界听力汇总\money 1.txt" />
+      <File Name="money1.rm" Path="E:\e-book\金融世界听力汇总\money1.rm" />
+      <File Name="money10.rm" Path="E:\e-book\金融世界听力汇总\money10.rm" />
+      <File Name="money11.rm" Path="E:\e-book\金融世界听力汇总\money11.rm" />
+      <File Name="money12.rm" Path="E:\e-book\金融世界听力汇总\money12.rm" />
+      <File Name="money13.rm" Path="E:\e-book\金融世界听力汇总\money13.rm" />
+      <File Name="money14.rm" Path="E:\e-book\金融世界听力汇总\money14.rm" />
+      <File Name="money15.rm" Path="E:\e-book\金融世界听力汇总\money15.rm" />
+      <File Name="money16.rm" Path="E:\e-book\金融世界听力汇总\money16.rm" />
+      <File Name="money17.rm" Path="E:\e-book\金融世界听力汇总\money17.rm" />
+      <File Name="money18.rm" Path="E:\e-book\金融世界听力汇总\money18.rm" />
+      <File Name="money19.rm" Path="E:\e-book\金融世界听力汇总\money19.rm" />
+      <File Name="money2.rm" Path="E:\e-book\金融世界听力汇总\money2.rm" />
+      <File Name="money20.rm" Path="E:\e-book\金融世界听力汇总\money20.rm" />
+      <File Name="money21.rm" Path="E:\e-book\金融世界听力汇总\money21.rm" />
+      <File Name="money22.rm" Path="E:\e-book\金融世界听力汇总\money22.rm" />
+      <File Name="money24.rm" Path="E:\e-book\金融世界听力汇总\money24.rm" />
+      <File Name="money3.rm" Path="E:\e-book\金融世界听力汇总\money3.rm" />
+      <File Name="money4.rm" Path="E:\e-book\金融世界听力汇总\money4.rm" />
+      <File Name="money5.rm" Path="E:\e-book\金融世界听力汇总\money5.rm" />
+      <File Name="money6.rm" Path="E:\e-book\金融世界听力汇总\money6.rm" />
+      <File Name="money7.rm" Path="E:\e-book\金融世界听力汇总\money7.rm" />
+      <File Name="money8.rm" Path="E:\e-book\金融世界听力汇总\money8.rm" />
+      <File Name="money9.rm" Path="E:\e-book\金融世界听力汇总\money9.rm" />
+    </Path>
+    <Path Name="金融英语" FullPath="E:\e-book\金融英语">
+      <File Name="1.lrc" Path="E:\e-book\金融英语\1.lrc" />
+      <File Name="1.mp3" Path="E:\e-book\金融英语\1.mp3" />
+      <File Name="2.lrc" Path="E:\e-book\金融英语\2.lrc" />
+      <File Name="2.mp3" Path="E:\e-book\金融英语\2.mp3" />
+      <File Name="3.lrc" Path="E:\e-book\金融英语\3.lrc" />
+      <File Name="3.mp3" Path="E:\e-book\金融英语\3.mp3" />
+      <File Name="4.lrc" Path="E:\e-book\金融英语\4.lrc" />
+      <File Name="4.mp3" Path="E:\e-book\金融英语\4.mp3" />
+      <File Name="5.lrc" Path="E:\e-book\金融英语\5.lrc" />
+      <File Name="5.mp3" Path="E:\e-book\金融英语\5.mp3" />
+    </Path>
+  </Path>
+</Root>
