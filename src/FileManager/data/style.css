@@ -1,0 +1,93 @@
+﻿
+/********************************************
+   AUTHOR:  			Benjamin.Peng
+   WEBSITE:   			
+   VERSION:				1.0          	
+ *******************************************/
+ 
+/********************************************
+   HTML ELEMENTS
+********************************************/ 
+
+/* Top Elements */
+* { margin: 0; padding: 0; }
+
+body
+{
+	background: #FCFCF5;
+	font: 70%/1.5em Verdana, Tahoma, arial, sans-serif;
+	color: #333; 
+}
+
+#wrapper
+{
+	margin:0pt auto;min-width:880px;width:80%;
+}
+
+#header
+{
+	border-bottom:0px solid black;
+	border-top:0px solid black;
+	margin-top:10px;
+	margin-bottom:10px;
+	padding-bottom:5px;
+	}
+	
+#header a
+{
+    font-size: 1.5em;
+    font-weight: bold;
+	color:#9BBB38;
+    text-decoration: none;
+    }
+
+.line
+{
+	border-top: 1px solid #000000;
+	line-height: 100%;
+	clear: both;
+	height: 27px;
+}
+
+.clear
+{
+	height:27px;
+	}
+
+.block
+{
+	border-right: silver 1px solid;
+	border-top: silver 1px solid;
+	border-left: silver 1px solid;
+	border-bottom: silver 1px solid;
+	background-color: infobackground;
+	margin:10px;
+	min-height:30px;
+}
+
+.title
+{
+	vertical-align:top;
+	clear: both;
+}
+
+.title span
+{
+	margin-left:10px;
+	border-right: silver 1px solid;
+	border-top: silver 1px solid;
+	border-left: silver 1px solid;
+	border-bottom: silver 1px solid;
+	}
+	
+.title span a
+{
+    font-size: larger;
+    font-weight: bold;
+    color: White;
+    background-color: #9BBB38;
+    text-decoration: none;
+}
+	
+
+	

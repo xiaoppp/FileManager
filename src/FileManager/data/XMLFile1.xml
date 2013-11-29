@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="htmlstyle.xslt"?>
+<Root>
+  <Path Name="Technology Base" FullPath="D:\Technology Base">
+    <Path Name="ASP.net" FullPath="D:\Technology Base\ASP.net">
+      <Path Name="Books" FullPath="D:\Technology Base\ASP.net\Books">
+        <File Name="D:\Technology Base\ASP.net\Books\ASPnetMVC10TestDrivenDevelopment.pdf" />
+      </Path>
+      <Path Name="Samples" FullPath="D:\Technology Base\ASP.net\Samples">
+        <Path Name="BlogEngine" FullPath="D:\Technology Base\ASP.net\Samples\BlogEngine" />
+      </Path>
+    </Path>
+    <Path Name="C#" FullPath="D:\Technology Base\C#">
+      <Path Name="C# 4.0" FullPath="D:\Technology Base\C#\C# 4.0">
+        <File Name="D:\Technology Base\C#\C# 4.0\Dynamic Deep Dive.pptx" />
+        <File Name="D:\Technology Base\C#\C# 4.0\Increased productivity with Visual CSharp IDE.pptx" />
+        <File Name="D:\Technology Base\C#\C# 4.0\Introduction to CSharp 4.0.pptx" />
+      </Path>
+    </Path>
+    <Path Name="Classical Book" FullPath="D:\Technology Base\Classical Book">
+      <File Name="D:\Technology Base\Classical Book\Unix 编程艺术.pdf" />
+    </Path>
+    <Path Name="Cloud" FullPath="D:\Technology Base\Cloud">
+      <Path Name="Azure" FullPath="D:\Technology Base\Cloud\Azure" />
+      <Path Name="Books" FullPath="D:\Technology Base\Cloud\Books">
+        <File Name="D:\Technology Base\Cloud\Books\cloud computing with Windows Azure Platform.pdf" />
+      </Path>
+    </Path>
+    <Path Name="DataBase" FullPath="D:\Technology Base\DataBase">
+      <Path Name="Oracle Books" FullPath="D:\Technology Base\DataBase\Oracle Books">
+        <File Name="D:\Technology Base\DataBase\Oracle Books\Oracle Database 11g SQL.pdf" />
+      </Path>
+    </Path>
+    <Path Name="Dotnet Framework" FullPath="D:\Technology Base\Dotnet Framework">
+      <Path Name="Books" FullPath="D:\Technology Base\Dotnet Framework\Books">
+        <File Name="D:\Technology Base\Dotnet Framework\Books\Microsoft.Press.CLR.via.Csharp.3rd.Edition.Feb.2010.pdf" />
+        <File Name="D:\Technology Base\Dotnet Framework\Books\Microsoft.Press.CLR.via.Csharp.3rd.Edition.Feb.2010_comment.pdf" />
+        <File Name="D:\Technology Base\Dotnet Framework\Books\Ms+Press+-+Clr+Via+C%23+2Nd+Edition.pdf" />
+      </Path>
+    </Path>
+    <Path Name="Enterprise Development" FullPath="D:\Technology Base\Enterprise Development">
+      <Path Name="BDD" FullPath="D:\Technology Base\Enterprise Development\BDD">
+        <File Name="D:\Technology Base\Enterprise Development\BDD\BDD WatiN 1.mp4.mpeg" />
+        <File Name="D:\Technology Base\Enterprise Development\BDD\BDD WCF 1.mp4.mpeg" />
+      </Path>
+      <Path Name="Cloud" FullPath="D:\Technology Base\Enterprise Development\Cloud">
+        <File Name="D:\Technology Base\Enterprise Development\Cloud\cloud.docx" />
+      </Path>
+      <Path Name="DDD" FullPath="D:\Technology Base\Enterprise Development\DDD">
+        <Path Name="Books" FullPath="D:\Technology Base\Enterprise Development\DDD\Books">
+          <File Name="D:\Technology Base\Enterprise Development\DDD\Books\dddquickly-chinese-version.pdf" />
+        </Path>
+      </Path>
+      <Path Name="SOA" FullPath="D:\Technology Base\Enterprise Development\SOA">
+        <Path Name="Books" FullPath="D:\Technology Base\Enterprise Development\SOA\Books">
+          <Path Name="SOA in the Real World.pdf" FullPath="D:\Technology Base\Enterprise Development\SOA\Books\SOA in the Real World.pdf">
+            <File Name="D:\Technology Base\Enterprise Development\SOA\Books\SOA in the Real World.pdf\SOA in the Real World.pdf" />
+          </Path>
+        </Path>
+      </Path>
+    </Path>
+    <Path Name="F#" FullPath="D:\Technology Base\F#">
+      <Path Name="F# Books" FullPath="D:\Technology Base\F#\F# Books">
+        <File Name="D:\Technology Base\F#\F# Books\Apress.Expert.F.Sharp.Dec.2007.1590598504.pdf" />
+        <File Name="D:\Technology Base\F#\F# Books\Foundations-of-F%23.pdf" />
+        <File Name="D:\Technology Base\F#\F# Books\spec.pdf" />
+        <File Name="D:\Technology Base\F#\F# Books\whyfp.pdf" />
+      </Path>
+      <Path Name="Samples" FullPath="D:\Technology Base\F#\Samples">
+        <Path Name="GoogleReaderPorts" FullPath="D:\Technology Base\F#\Samples\GoogleReaderPorts" />
+      </Path>
+      <Path Name="Toolkit" FullPath="D:\Technology Base\F#\Toolkit" />
+    </Path>
+    <Path Name="IOC" FullPath="D:\Technology Base\IOC">
+      <Path Name="Samples" FullPath="D:\Technology Base\IOC\Samples">
+        <Path Name="Munq-IocContainer-V2" FullPath="D:\Technology Base\IOC\Samples\Munq-IocContainer-V2" />
+      </Path>
+    </Path>
+    <Path Name="Javascript" FullPath="D:\Technology Base\Javascript">
+      <Path Name="JavaScript" FullPath="D:\Technology Base\Javascript\JavaScript">
+        <Path Name="JS Books" FullPath="D:\Technology Base\Javascript\JavaScript\JS Books">
+          <Path Name="javascript design pattern" FullPath="D:\Technology Base\Javascript\JavaScript\JS Books\javascript design pattern">
+            <File Name="D:\Technology Base\Javascript\JavaScript\JS Books\javascript design pattern\ch01.pdf" />
+            <File Name="D:\Technology Base\Javascript\JavaScript\JS Books\javascript design pattern\ch07.pdf" />
+            <File Name="D:\Technology Base\Javascript\JavaScript\JS Books\javascript design pattern\ch15.pdf" />
+          </Path>
+          <Path Name="javascript pro" FullPath="D:\Technology Base\Javascript\JavaScript\JS Books\javascript pro">
+            <File Name="D:\Technology Base\Javascript\JavaScript\JS Books\javascript pro\ch01.pdf" />
+            <File Name="D:\Technology Base\Javascript\JavaScript\JS Books\javascript pro\ch02.pdf" />
+            <File Name="D:\Technology Base\Javascript\JavaScript\JS Books\javascript pro\ch03.pdf" />
+            <File Name="D:\Technology Base\Javascript\JavaScript\JS Books\javascript pro\ch15.pdf" />
+          </Path>
+        </Path>
+      </Path>
+    </Path>
+    <Path Name="Personal Code" FullPath="D:\Technology Base\Personal Code">
+      <Path Name="customerServer" FullPath="D:\Technology Base\Personal Code\customerServer" />
+      <Path Name="DataAccess" FullPath="D:\Technology Base\Personal Code\DataAccess" />
+      <Path Name="EndocrinePI" FullPath="D:\Technology Base\Personal Code\EndocrinePI" />
+      <Path Name="HOme" FullPath="D:\Technology Base\Personal Code\HOme" />
+      <Path Name="IdeaMagic" FullPath="D:\Technology Base\Personal Code\IdeaMagic" />
+      <Path Name="ImageShow" FullPath="D:\Technology Base\Personal Code\ImageShow" />
+      <Path Name="Laopo.ExportData" FullPath="D:\Technology Base\Personal Code\Laopo.ExportData" />
+      <Path Name="MailAlert" FullPath="D:\Technology Base\Personal Code\MailAlert" />
+      <Path Name="Party" FullPath="D:\Technology Base\Personal Code\Party" />
+      <Path Name="SafetyCalendar" FullPath="D:\Technology Base\Personal Code\SafetyCalendar" />
+      <Path Name="XOOPOO" FullPath="D:\Technology Base\Personal Code\XOOPOO" />
+    </Path>
+    <Path Name="PowerShell" FullPath="D:\Technology Base\PowerShell">
+      <Path Name="Books" FullPath="D:\Technology Base\PowerShell\Books">
+        <File Name="D:\Technology Base\PowerShell\Books\Manning.Windows.PowerShell.in.Action.Feb.2007.pdf" />
+        <File Name="D:\Technology Base\PowerShell\Books\OReilly.Windows.PowerShell.Cookbook.Oct.2007.pdf" />
+        <File Name="D:\Technology Base\PowerShell\Books\powershell_reference.doc" />
+        <File Name="D:\Technology Base\PowerShell\Books\WindowsPowerShellV2_CTP3_SDK.chm" />
+      </Path>
+      <Path Name="Powershell Scripts" FullPath="D:\Technology Base\PowerShell\Powershell Scripts">
+        <File Name="D:\Technology Base\PowerShell\Powershell Scripts\autoBuild.ps1" />
+        <File Name="D:\Technology Base\PowerShell\Powershell Scripts\buildCopyright.ps1" />
+        <File Name="D:\Technology Base\PowerShell\Powershell Scripts\codelineCounting.ps1" />
+        <File Name="D:\Technology Base\PowerShell\Powershell Scripts\crazyCreateFiles.ps1" />
+        <File Name="D:\Technology Base\PowerShell\Powershell Scripts\ftp.ps1" />
+        <File Name="D:\Technology Base\PowerShell\Powershell Scripts\methodCall.ps1" />
+        <File Name="D:\Technology Base\PowerShell\Powershell Scripts\tortoise.ps1" />
+        <File Name="D:\Technology Base\PowerShell\Powershell Scripts\versionNumber.ps1" />
+      </Path>
+    </Path>
+    <Path Name="Regex" FullPath="D:\Technology Base\Regex">
+      <File Name="D:\Technology Base\Regex\RegexTester.exe" />
+    </Path>
+    <Path Name="Source Control" FullPath="D:\Technology Base\Source Control">
+      <Path Name="Tools" FullPath="D:\Technology Base\Source Control\Tools" />
+    </Path>
+    <Path Name="UI" FullPath="D:\Technology Base\UI">
+      <Path Name="Tools" FullPath="D:\Technology Base\UI\Tools" />
+    </Path>
+    <Path Name="Unit Test" FullPath="D:\Technology Base\Unit Test">
+      <Path Name="Books" FullPath="D:\Technology Base\Unit Test\Books">
+        <File Name="D:\Technology Base\Unit Test\Books\xunit-1.5.chm" />
+      </Path>
+      <Path Name="Tools" FullPath="D:\Technology Base\Unit Test\Tools" />
+    </Path>
+    <Path Name="Unix" FullPath="D:\Technology Base\Unix">
+      <Path Name="book" FullPath="D:\Technology Base\Unix\book">
+        <File Name="D:\Technology Base\Unix\book\UNIX编程艺术.pdf" />
+      </Path>
+    </Path>
+    <Path Name="virtual machine" FullPath="D:\Technology Base\virtual machine">
+      <File Name="D:\Technology Base\virtual machine\VirtualBox-4.0.6-71416-Win.exe" />
+    </Path>
+    <Path Name="WCF" FullPath="D:\Technology Base\WCF">
+      <Path Name="Books" FullPath="D:\Technology Base\WCF\Books">
+        <File Name="D:\Technology Base\WCF\Books\Programming WCF Services 2nd Edition.chm" />
+      </Path>
+    </Path>
+    <Path Name="WEB" FullPath="D:\Technology Base\WEB">
+      <Path Name="HTML" FullPath="D:\Technology Base\WEB\HTML">
+        <Path Name="Lenovo Samples" FullPath="D:\Technology Base\WEB\HTML\Lenovo Samples" />
+      </Path>
+      <Path Name="Tools" FullPath="D:\Technology Base\WEB\Tools">
+        <Path Name="EditPlus 3" FullPath="D:\Technology Base\WEB\Tools\EditPlus 3">
+        </Path>
+      </Path>
+    </Path>
+    <Path Name="Windows Phone 7" FullPath="D:\Technology Base\Windows Phone 7">
+      <File Name="D:\Technology Base\Windows Phone 7\WP7有约.pdf" />
+    </Path>
+    <Path Name="WPF" FullPath="D:\Technology Base\WPF">
+      <Path Name="MVVM" FullPath="D:\Technology Base\WPF\MVVM" />
+      <Path Name="Samples" FullPath="D:\Technology Base\WPF\Samples">
+        <Path Name="AnimationGallery" FullPath="D:\Technology Base\WPF\Samples\AnimationGallery">
+          <File Name="D:\Technology Base\WPF\Samples\AnimationGallery\AnimationGallery.exe" />
+        </Path>
+        <Path Name="babysmash-17438" FullPath="D:\Technology Base\WPF\Samples\babysmash-17438" />
+        <Path Name="DiagramDesigner" FullPath="D:\Technology Base\WPF\Samples\DiagramDesigner" />
+        <Path Name="Familyshow" FullPath="D:\Technology Base\WPF\Samples\Familyshow" />
+        <Path Name="fluidkit-44626" FullPath="D:\Technology Base\WPF\Samples\fluidkit-44626" />
+        <Path Name="transitionals-14784" FullPath="D:\Technology Base\WPF\Samples\transitionals-14784" />
+      </Path>
+      <Path Name="Tools" FullPath="D:\Technology Base\WPF\Tools">
+        <File Name="D:\Technology Base\WPF\Tools\Snoop.msi" />
+        <File Name="D:\Technology Base\WPF\Tools\WPFInspector_0_9_3.msi" />
+      </Path>
+      <Path Name="WPF" FullPath="D:\Technology Base\WPF\WPF" />
+      <Path Name="WPF Book" FullPath="D:\Technology Base\WPF\WPF Book">
+        <File Name="D:\Technology Base\WPF\WPF Book\Sams.Windows.Presentation.Foundation.Unleashed.Dec.2006.pdf" />
+        <File Name="D:\Technology Base\WPF\WPF Book\WPF%2BControl%2BDevelopment.pdf" />
+        <File Name="D:\Technology Base\WPF\WPF Book\WPF揭秘.pdf" />
+      </Path>
+      <Path Name="WPF Toolkit" FullPath="D:\Technology Base\WPF\WPF Toolkit" />
+    </Path>
+  </Path>
+</Root>

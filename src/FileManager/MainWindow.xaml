@@ -1,0 +1,33 @@
+﻿<Window x:Class="DatumManage.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="559" Width="863">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="30"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                <TextBox x:Name="txtPath" Margin="3" Width="572"></TextBox>
+                <Button Margin="30,0,20,0" Content="Browse..." Click="btnBrowseButton_Click" Height="25" Width="53"></Button>
+            </StackPanel>
+        </Grid>
+        <TreeView Name="tvFolder" Grid.Row="1">
+            <TreeView.ItemTemplate>
+                <HierarchicalDataTemplate ItemsSource="{Binding Path=NodeList}">
+                    <StackPanel Orientation="Horizontal">
+                        <CheckBox IsChecked="{Binding Path=IsSelected, Mode=TwoWay}"></CheckBox>
+                        <TextBlock Text="{Binding Name}" ></TextBlock>
+                    </StackPanel>
+                </HierarchicalDataTemplate>
+            </TreeView.ItemTemplate>
+        </TreeView>
+        <Grid Grid.Row="2">
+            <StackPanel>
+                <Button Margin="0,3,20,3" HorizontalAlignment="Right" Content="Save" Height="25" Width="53" Click="Button_Click"></Button>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Window>
